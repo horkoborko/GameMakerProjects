@@ -6,11 +6,11 @@ for ( index = 0; index < global.wordLength; index += 1 )
    {
 	var tempId = global.dashInstances[index]
 	   
-	if ( global.wordArray[index] == "a" )
+	if ( global.wordArray[index] == "d" )
 	   {
 		with ( tempId )
 		   {
-	        instance_change(obj_letterA, false);
+	        instance_change(obj_letterD, false);
 		   }
 	   }
    }

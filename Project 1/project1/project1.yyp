@@ -51,7 +51,6 @@
     {"id":{"name":"obj_letterC","path":"objects/obj_letterC/obj_letterC.yy",},"order":5,},
     {"id":{"name":"TGMS_8_SystemUtilities","path":"scripts/TGMS_8_SystemUtilities/TGMS_8_SystemUtilities.yy",},"order":0,},
     {"id":{"name":"obj_letterB","path":"objects/obj_letterB/obj_letterB.yy",},"order":4,},
-    {"id":{"name":"spr_dash_1","path":"sprites/spr_dash_1/spr_dash_1.yy",},"order":29,},
     {"id":{"name":"spr_letterU","path":"sprites/spr_letterU/spr_letterU.yy",},"order":22,},
     {"id":{"name":"hangmanHandler","path":"scripts/hangmanHandler/hangmanHandler.yy",},"order":0,},
     {"id":{"name":"spr_letterG","path":"sprites/spr_letterG/spr_letterG.yy",},"order":8,},
