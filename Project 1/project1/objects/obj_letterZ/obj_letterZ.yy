@@ -1,5 +1,8 @@
 {
-  "spriteId": null,
+  "spriteId": {
+    "name": "spr_letterZ",
+    "path": "sprites/spr_letterZ/spr_letterZ.yy",
+  },
   "solid": false,
   "visible": true,
   "spriteMaskId": null,
