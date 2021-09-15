@@ -14,3 +14,4 @@ for ( index = 0; index < global.wordLength; index += 1 )
 		   }
 	   }
    }
+   
