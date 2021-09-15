@@ -6,7 +6,7 @@
     "path": "folders/Scripts.yy",
   },
   "resourceVersion": "1.0",
-  "name": "hangmanHandler",
+  "name": "code_idea_dump",
   "tags": [],
   "resourceType": "GMScript",
 }
