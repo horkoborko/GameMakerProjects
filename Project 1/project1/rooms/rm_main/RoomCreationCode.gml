@@ -54,15 +54,7 @@ for ( index = 0; index < global.wordLength; index += 1 )
 global.numLives = 6;
 global.numRight = 0;
 
-if ( global.numLives == 0 )
-   {
-    room_goto(rm_lose);
-   }
-   
-if ( global.numRight == global.wordLength )
-   {
-    room_goto(rm_win);
-   }
+
    
 
 

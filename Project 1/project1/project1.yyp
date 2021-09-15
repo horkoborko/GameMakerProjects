@@ -59,6 +59,7 @@
     {"id":{"name":"TGMS_X_Deprecated","path":"scripts/TGMS_X_Deprecated/TGMS_X_Deprecated.yy",},"order":3,},
     {"id":{"name":"TGMS_1_EasyTweens","path":"scripts/TGMS_1_EasyTweens/TGMS_1_EasyTweens.yy",},"order":5,},
     {"id":{"name":"rm_win","path":"rooms/rm_win/rm_win.yy",},"order":2,},
+    {"id":{"name":"hangmanHandler","path":"scripts/hangmanHandler/hangmanHandler.yy",},"order":1,},
     {"id":{"name":"obj_letterS","path":"objects/obj_letterS/obj_letterS.yy",},"order":21,},
     {"id":{"name":"obj_letterM","path":"objects/obj_letterM/obj_letterM.yy",},"order":15,},
     {"id":{"name":"obj_letterC","path":"objects/obj_letterC/obj_letterC.yy",},"order":5,},
