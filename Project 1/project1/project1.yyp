@@ -1,12 +1,15 @@
 {
   "resources": [
+    {"id":{"name":"seq_win_anim","path":"sequences/seq_win_anim/seq_win_anim.yy",},"order":0,},
     {"id":{"name":"spr_letterF","path":"sprites/spr_letterF/spr_letterF.yy",},"order":7,},
     {"id":{"name":"obj_title","path":"objects/obj_title/obj_title.yy",},"order":1,},
     {"id":{"name":"TGMS_Begin","path":"scripts/TGMS_Begin/TGMS_Begin.yy",},"order":0,},
     {"id":{"name":"spr_letterL","path":"sprites/spr_letterL/spr_letterL.yy",},"order":13,},
     {"id":{"name":"spr_letterZ","path":"sprites/spr_letterZ/spr_letterZ.yy",},"order":27,},
     {"id":{"name":"obj_letterY","path":"objects/obj_letterY/obj_letterY.yy",},"order":27,},
+    {"id":{"name":"seq_lose_anim","path":"sequences/seq_lose_anim/seq_lose_anim.yy",},"order":1,},
     {"id":{"name":"TGMS_6_TweenTools","path":"scripts/TGMS_6_TweenTools/TGMS_6_TweenTools.yy",},"order":10,},
+    {"id":{"name":"spr_win_logo","path":"sprites/spr_win_logo/spr_win_logo.yy",},"order":29,},
     {"id":{"name":"obj_letterD","path":"objects/obj_letterD/obj_letterD.yy",},"order":6,},
     {"id":{"name":"TGMS_4_TweenState","path":"scripts/TGMS_4_TweenState/TGMS_4_TweenState.yy",},"order":8,},
     {"id":{"name":"TGMS_9_Settings","path":"scripts/TGMS_9_Settings/TGMS_9_Settings.yy",},"order":1,},
@@ -72,6 +75,7 @@
     {"id":{"name":"obj_letterO","path":"objects/obj_letterO/obj_letterO.yy",},"order":17,},
     {"id":{"name":"spr_letterM","path":"sprites/spr_letterM/spr_letterM.yy",},"order":14,},
     {"id":{"name":"obj_letterW","path":"objects/obj_letterW/obj_letterW.yy",},"order":25,},
+    {"id":{"name":"spr_lose_logo","path":"sprites/spr_lose_logo/spr_lose_logo.yy",},"order":30,},
     {"id":{"name":"spr_letterE","path":"sprites/spr_letterE/spr_letterE.yy",},"order":6,},
     {"id":{"name":"spr_letterN","path":"sprites/spr_letterN/spr_letterN.yy",},"order":15,},
     {"id":{"name":"obj_letterT","path":"objects/obj_letterT/obj_letterT.yy",},"order":22,},
@@ -133,7 +137,7 @@
     {"CopyToMask":-1,"filePath":"datafiles/TweenGMS","resourceVersion":"1.0","name":"Update Log.txt","resourceType":"GMIncludedFile",},
   ],
   "MetaData": {
-    "IDEVersion": "2.3.4.580",
+    "IDEVersion": "2.3.3.574",
   },
   "resourceVersion": "1.4",
   "name": "project1",
