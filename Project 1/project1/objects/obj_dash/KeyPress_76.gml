@@ -8,7 +8,7 @@ if ( global.buffer )
        {
 	    var tempId = global.dashInstances[index]
 	   
-	    if ( global.wordArray[index] == "l" )
+	    if ( global.wordArray[index] == "l" && instance_exists(tempId))
 	       {
 		    with ( tempId )
 		       {
