@@ -19,7 +19,7 @@ N/A
 
 ## Credits
 
-* Ryan Demboski: Built the rooms, created the animations (tweenGMS and sequences), put together hangman and planned the conditions for parts being visible/invisble
+* Ryan Demboski: Designed the rooms, created the animations (tweenGMS and sequences), put together hangman and planned the conditions for parts being visible/invisble
 
 * Hannah Trenary:
 
