@@ -19,7 +19,7 @@ N/A
 
 ## Credits
 
-* Ryan Demboski:
+* Ryan Demboski: Built the rooms, created the animations (tweenGMS and sequences), wrote code for hangman being visible/invisble
 
 * Hannah Trenary:
 
