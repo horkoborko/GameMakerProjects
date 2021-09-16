@@ -4,7 +4,7 @@
 
 * Ryan Demboski (5782550)
 * Hannah Trenary ()
-* Scott Austin ()
+* Scott Austin (5769599)
 
 ## Instructions
 
@@ -23,4 +23,4 @@ N/A
 
 * Hannah Trenary:
 
-* Scott Austin:
+* Scott Austin: Worked on the code that handles the room creation and also the code that handles keyboard input and changes the dash instances to correct letters. Also worked on handling when a win/lose condition is met and therefore updates the room.
