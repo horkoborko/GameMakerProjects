@@ -4,7 +4,7 @@
 
 // This is just some random extra code, might need it  might not...can salvage the 
 // "idea" for getting to win/lose state
-userLives = 5;
+userLives = 6;
 
 function getLetter()
    {

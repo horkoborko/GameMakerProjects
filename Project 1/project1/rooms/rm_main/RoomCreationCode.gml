@@ -11,7 +11,7 @@ while (global.wordLength <= 0 || global.wordLength > 6)
 	
 	if (global.wordLength > 6 )
 		{
-		 show_message("Please enter a word less than 7 charachters");	
+		 show_message("Please enter a word less than 7 characters");	
 		}
    }
  
@@ -49,16 +49,50 @@ for ( index = 0; index < global.wordLength; index += 1 )
    }
  
  
- 
-//
+ ////////////////////////////////////////////////////////////////////////////////////////////////
+// Guess Handling
 global.numLives = 6;
-global.numRight = 0;
+global.numRight = 0; 
+global.counter = 0;
 
+// while player has not lost
+while global.numLives > 0 and global.counter < global.wordLength{
+	//prompt for a guess
+	global.userGuess = string_lower(get_string("Guess a letter:", ""));
+
+	//if the guess is in the word
+	if !is_undefined(wordArray[global.userGuess])
+		{
+			//capture the guess
+			capturedChar = wordArray[global.userGuess];
+			
+			//replace dash with the guess (i think this is broken)
+			wordArray[global.wordLength + index] = capturedChar;
+			
+			//iterate loop
+			global.counter++;
+		}
+		
+	else
+		{
+			//make a part of the body visible
+			if instance_exists(obj_man_head) visible = true;
+			
+			//deduct a life
+			global.numLives--;
+			
+			//iterate loop
+			global.counter++;
+		}
+} 
+
+//if user has lost
 if ( global.numLives == 0 )
    {
     room_goto(rm_lose);
    }
    
+ //if user has won
 if ( global.numRight == global.wordLength )
    {
     room_goto(rm_win);
