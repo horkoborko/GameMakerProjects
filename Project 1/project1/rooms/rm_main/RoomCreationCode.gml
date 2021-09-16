@@ -2,6 +2,9 @@
 
 // loops until user input is a populated string less than 7 chars
 global.wordLength = 0;
+global.numLives = 6;
+global.numRight = 0; 
+global.buffer = true;
 
 while (global.wordLength <= 0 || global.wordLength > 6)
    {
@@ -50,9 +53,7 @@ for ( index = 0; index < global.wordLength; index += 1 )
  
  
 
-global.numLives = 6;
-global.numRight = 0; 
-global.counter = 0;
+
 
 
    
