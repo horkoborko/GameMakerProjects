@@ -59,7 +59,6 @@ global.counter = 0;
 while global.numLives > 0 and global.counter < global.wordLength{
 	//prompt for a guess
 	global.userGuess = string_lower(get_string("Guess a letter:", ""));
-
 	//if the guess is in the word
 	if !is_undefined(wordArray[global.userGuess])
 		{
