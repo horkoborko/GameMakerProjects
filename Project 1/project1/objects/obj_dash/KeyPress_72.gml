@@ -9,11 +9,11 @@ for ( index = 0; index < global.wordLength; index += 1 )
 	   
 	if ( global.wordArray[index] == "h" )
 	   {
-		global.numRight += 1;
+		
 		with ( tempId )
 		   {
 			trackChange += 1;
-			
+			global.numRight += 1;
 	        instance_change(obj_letterH, false);
 		   }
 	   }

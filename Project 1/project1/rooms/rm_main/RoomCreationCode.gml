@@ -49,8 +49,7 @@ for ( index = 0; index < global.wordLength; index += 1 )
    }
  
  
- ////////////////////////////////////////////////////////////////////////////////////////////////
-// Guess Handling
+
 global.numLives = 6;
 global.numRight = 0; 
 global.counter = 0;

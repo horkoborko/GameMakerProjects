@@ -7,7 +7,7 @@ function checkState()
        room_goto(rm_lose);
       }
    
-    if ( global.numRight == global.wordLength * 2)
+    if ( global.numRight == global.wordLength )
       {
        room_goto(rm_win);
       }
