@@ -8,9 +8,9 @@
 
 ## Instructions
 
-Left click on the title screen to begin the game
-Use the keyboard to guess letters that are in the mystery word
-Every wrong guess builds a part of the hangman
+Left click on the title screen to begin the game.
+Use the keyboard to guess letters that are in the mystery word.
+Every wrong guess builds a part of the hangman.
 If you avoid building the hangman completely and spell the full word, you win!
 
 ## Known Bugs or Issues
