@@ -20,7 +20,7 @@ global.buffer = true;
    randomize();
    var wordLibrary = ["Apples","Poker","Watch","Hammer","Boars","Roast","Iowa"];
    var randomWord = random(6);
-   global.userString = wordLibrary[randomWord];
+   global.userString = string_lower(wordLibrary[randomWord]);
    global.wordLength = string_length(global.userString);
  
 // Put string into array
