@@ -3,7 +3,7 @@
 ## Hangman
 
 * Ryan Demboski (5782550)
-* Hannah Trenary ()
+* Hannah Trenary (5769157)
 * Scott Austin (5769599)
 
 ## Instructions
@@ -21,6 +21,6 @@ N/A
 
 * Ryan Demboski: Designed the rooms, created the animations (tweenGMS and sequences), put together hangman and made the conditions for parts being visible/invisble
 
-* Hannah Trenary:
+* Hannah Trenary: Made the sprites and objects for the letters and hangman parts, created the word library, implemented a randomization system for the selection of the word per game, and created/led the plan of implementation.
 
 * Scott Austin: Worked on the code that handles the room creation and also the code that handles keyboard input and changes the dash instances to correct letters. Also worked on handling when a win/lose condition is met and therefore updates the room.
