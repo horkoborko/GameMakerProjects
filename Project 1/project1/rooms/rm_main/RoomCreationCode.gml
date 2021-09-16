@@ -6,7 +6,7 @@ global.numLives = 6;
 global.numRight = 0; 
 global.buffer = true;
 
-while (global.wordLength <= 0 || global.wordLength > 6)
+/**while (global.wordLength <= 0 || global.wordLength > 6)
    {
 	global.userString = string_lower(get_string("Enter word to be guessed:\nMust be under 6 letters", ""));
 
@@ -16,7 +16,12 @@ while (global.wordLength <= 0 || global.wordLength > 6)
 		{
 		 show_message("Please enter a word less than 7 characters");	
 		}
-   }
+   }**/
+   randomize();
+   var wordLibrary = ["Apples","Poker","Watch","Hammer","Boars","Roast","Iowa"];
+   var randomWord = random(6);
+   global.userString = wordLibrary[randomWord];
+   global.wordLength = string_length(global.userString);
  
 // Put string into array
 var index;
