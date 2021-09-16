@@ -11,7 +11,7 @@ while (global.wordLength <= 0 || global.wordLength > 6)
 	
 	if (global.wordLength > 6 )
 		{
-		 show_message("Please enter a word less than 7 charachters");	
+		 show_message("Please enter a word less than 7 characters");	
 		}
    }
  
@@ -49,10 +49,11 @@ for ( index = 0; index < global.wordLength; index += 1 )
    }
  
  
- 
-//
+ ////////////////////////////////////////////////////////////////////////////////////////////////
+// Guess Handling
 global.numLives = 6;
-global.numRight = 0;
+global.numRight = 0; 
+global.counter = 0;
 
 
    
