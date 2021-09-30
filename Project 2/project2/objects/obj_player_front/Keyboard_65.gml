@@ -3,4 +3,4 @@
 
 x = x - 1;
 
-sprite_index = spr_player_side;
+sprite_index = spr_player_left_side;
