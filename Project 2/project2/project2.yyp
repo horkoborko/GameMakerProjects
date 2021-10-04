@@ -15,6 +15,7 @@
     {"id":{"name":"obj_instructions","path":"objects/obj_instructions/obj_instructions.yy",},"order":4,},
     {"id":{"name":"obj_title_start_btn","path":"objects/obj_title_start_btn/obj_title_start_btn.yy",},"order":3,},
     {"id":{"name":"obj_bandit","path":"objects/obj_bandit/obj_bandit.yy",},"order":6,},
+    {"id":{"name":"spr_tree","path":"sprites/spr_tree/spr_tree.yy",},"order":22,},
     {"id":{"name":"spr_bandit","path":"sprites/spr_bandit/spr_bandit.yy",},"order":7,},
     {"id":{"name":"spr_arrow","path":"sprites/spr_arrow/spr_arrow.yy",},"order":20,},
     {"id":{"name":"obj_arrow","path":"objects/obj_arrow/obj_arrow.yy",},"order":13,},
@@ -43,6 +44,7 @@
     {"id":{"name":"spr_health_potion","path":"sprites/spr_health_potion/spr_health_potion.yy",},"order":21,},
     {"id":{"name":"obj_player_back","path":"objects/obj_player_back/obj_player_back.yy",},"order":8,},
     {"id":{"name":"rm_title","path":"rooms/rm_title/rm_title.yy",},"order":1,},
+    {"id":{"name":"obj_tree","path":"objects/obj_tree/obj_tree.yy",},"order":15,},
     {"id":{"name":"rm_main","path":"rooms/rm_main/rm_main.yy",},"order":0,},
   ],
   "Options": [
@@ -120,7 +122,7 @@
     {"CopyToMask":-1,"filePath":"datafiles/TweenGMS","resourceVersion":"1.0","name":"Update Log.txt","resourceType":"GMIncludedFile",},
   ],
   "MetaData": {
-    "IDEVersion": "2.3.4.580",
+    "IDEVersion": "2.3.5.589",
   },
   "resourceVersion": "1.4",
   "name": "project2",
