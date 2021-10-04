@@ -16,6 +16,7 @@
     {"instances":[
         {"properties":[],"isDnd":false,"objectId":{"name":"obj_player_front","path":"objects/obj_player_front/obj_player_front.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":32.0,"y":32.0,"resourceVersion":"1.0","name":"inst_6DBFAE57","tags":[],"resourceType":"GMRInstance",},
         {"properties":[],"isDnd":false,"objectId":{"name":"obj_rat","path":"objects/obj_rat/obj_rat.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":0.5,"scaleY":0.5,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":416.0,"y":96.0,"resourceVersion":"1.0","name":"inst_5075D85","tags":[],"resourceType":"GMRInstance",},
+        {"properties":[],"isDnd":false,"objectId":{"name":"obj_bandit","path":"objects/obj_bandit/obj_bandit.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":384.0,"y":384.0,"resourceVersion":"1.0","name":"inst_6C10E874","tags":[],"resourceType":"GMRInstance",},
       ],"visible":true,"depth":0,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"resourceVersion":"1.0","name":"Instances","tags":[],"resourceType":"GMRInstanceLayer",},
     {"tilesetId":{"name":"ts_collision","path":"tilesets/ts_collision/ts_collision.yy",},"x":0,"y":0,"tiles":{"SerialiseWidth":16,"SerialiseHeight":16,"TileSerialiseData":[
 2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,1,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,
@@ -61,6 +62,7 @@
   "instanceCreationOrder": [
     {"name":"inst_6DBFAE57","path":"rooms/rm_main/rm_main.yy",},
     {"name":"inst_5075D85","path":"rooms/rm_main/rm_main.yy",},
+    {"name":"inst_6C10E874","path":"rooms/rm_main/rm_main.yy",},
   ],
   "inheritCreationOrder": false,
   "sequenceId": null,
