@@ -2,12 +2,13 @@ audio_stop_sound(sound_title_theme);
 
 audio_play_sound(sound_main_theme, 10, true);
 
+global.numHits = 0;
 
 /// Create forest  top part---> Doesnt Work?
 
 var lyr_instances = layer_get_id("Instances");
 
-var x_index, y_index, index;
+var x_index, y_index;
 
 // These "magic" number are pixel indecies for where the trees are to start being place, with spacing of 15
 
