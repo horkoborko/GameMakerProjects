@@ -17,6 +17,7 @@
     {"id":{"name":"obj_bandit","path":"objects/obj_bandit/obj_bandit.yy",},"order":6,},
     {"id":{"name":"spr_tree","path":"sprites/spr_tree/spr_tree.yy",},"order":22,},
     {"id":{"name":"spr_bandit","path":"sprites/spr_bandit/spr_bandit.yy",},"order":7,},
+    {"id":{"name":"obj_collision","path":"objects/obj_collision/obj_collision.yy",},"order":18,},
     {"id":{"name":"spr_arrow","path":"sprites/spr_arrow/spr_arrow.yy",},"order":20,},
     {"id":{"name":"obj_arrow","path":"objects/obj_arrow/obj_arrow.yy",},"order":13,},
     {"id":{"name":"spr_rat_moving","path":"sprites/spr_rat_moving/spr_rat_moving.yy",},"order":23,},
@@ -129,7 +130,7 @@
     {"CopyToMask":-1,"filePath":"datafiles/TweenGMS","resourceVersion":"1.0","name":"Update Log.txt","resourceType":"GMIncludedFile",},
   ],
   "MetaData": {
-    "IDEVersion": "2.3.5.589",
+    "IDEVersion": "2.3.4.580",
   },
   "resourceVersion": "1.4",
   "name": "project2",
