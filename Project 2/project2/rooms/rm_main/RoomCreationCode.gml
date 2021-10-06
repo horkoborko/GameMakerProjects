@@ -39,3 +39,13 @@ for ( x_index = 450; x_index < 507; x_index += 15)
 	    instance_create_layer(x_index, y_index, lyr_instances, obj_tree);
        }   
    }
+   
+   /// More parts for the forest creation 
+
+for ( x_index = 200; x_index < 340; x_index += 15)
+   {
+	for ( y_index = 500; y_index > 420 ; y_index -= 15 )
+       {
+	    instance_create_layer(x_index, y_index, lyr_instances, obj_tree);
+       }   
+   }
