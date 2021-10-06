@@ -1,6 +1,7 @@
 {
   "resources": [
     {"id":{"name":"obj_play_btn","path":"objects/obj_play_btn/obj_play_btn.yy",},"order":5,},
+    {"id":{"name":"spr_boss_moving","path":"sprites/spr_boss_moving/spr_boss_moving.yy",},"order":26,},
     {"id":{"name":"spr_player_side_static","path":"sprites/spr_player_side_static/spr_player_side_static.yy",},"order":12,},
     {"id":{"name":"spr_player_side","path":"sprites/spr_player_side/spr_player_side.yy",},"order":6,},
     {"id":{"name":"spr_player_front_static","path":"sprites/spr_player_front_static/spr_player_front_static.yy",},"order":16,},
