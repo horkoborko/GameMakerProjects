@@ -7,15 +7,15 @@
   "edgeFiltering": false,
   "collisionTolerance": 0,
   "swfPrecision": 2.525,
-  "bbox_left": 0,
-  "bbox_right": 0,
-  "bbox_top": 0,
-  "bbox_bottom": 0,
+  "bbox_left": 2,
+  "bbox_right": 12,
+  "bbox_top": 1,
+  "bbox_bottom": 15,
   "HTile": false,
   "VTile": false,
   "For3D": false,
-  "width": 64,
-  "height": 64,
+  "width": 16,
+  "height": 16,
   "textureGroupId": {
     "name": "Default",
     "path": "texturegroups/Default",
@@ -24,15 +24,15 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"f121c1fa-285e-4580-86f1-2e6ae03c11c6","path":"sprites/spr_boss_moving/spr_boss_moving.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"f121c1fa-285e-4580-86f1-2e6ae03c11c6","path":"sprites/spr_boss_moving/spr_boss_moving.yy",},"LayerId":{"name":"90c9d176-ebc4-49b9-abbb-5cd4f1677868","path":"sprites/spr_boss_moving/spr_boss_moving.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_boss_moving","path":"sprites/spr_boss_moving/spr_boss_moving.yy",},"resourceVersion":"1.0","name":"f121c1fa-285e-4580-86f1-2e6ae03c11c6","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"fe27882c-32ad-40a5-9fc2-13decbe04f08","path":"sprites/spr_villager/spr_villager.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"fe27882c-32ad-40a5-9fc2-13decbe04f08","path":"sprites/spr_villager/spr_villager.yy",},"LayerId":{"name":"a36c91ff-16d8-4ef0-9469-46a2e1b10f60","path":"sprites/spr_villager/spr_villager.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_villager","path":"sprites/spr_villager/spr_villager.yy",},"resourceVersion":"1.0","name":"fe27882c-32ad-40a5-9fc2-13decbe04f08","tags":[],"resourceType":"GMSpriteFrame",},
   ],
   "sequence": {
-    "spriteId": {"name":"spr_boss_moving","path":"sprites/spr_boss_moving/spr_boss_moving.yy",},
+    "spriteId": {"name":"spr_villager","path":"sprites/spr_villager/spr_villager.yy",},
     "timeUnits": 1,
     "playback": 1,
-    "playbackSpeed": 30.0,
+    "playbackSpeed": 10.0,
     "playbackSpeedType": 0,
     "autoRecord": true,
     "volume": 1.0,
@@ -41,7 +41,7 @@
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
       {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
-            {"id":"e131ce8e-9539-456f-b54c-14f2eb2daaf4","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"f121c1fa-285e-4580-86f1-2e6ae03c11c6","path":"sprites/spr_boss_moving/spr_boss_moving.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"6e3c6f31-949c-492a-bcbf-d369d5d01de3","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"fe27882c-32ad-40a5-9fc2-13decbe04f08","path":"sprites/spr_villager/spr_villager.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
           ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack","modifiers":[],},
     ],
     "visibleRange": null,
@@ -58,14 +58,14 @@
     "yorigin": 0,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"spr_boss_moving","path":"sprites/spr_boss_moving/spr_boss_moving.yy",},
+    "parent": {"name":"spr_villager","path":"sprites/spr_villager/spr_villager.yy",},
     "resourceVersion": "1.3",
-    "name": "spr_boss_moving",
+    "name": "spr_villager",
     "tags": [],
     "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"90c9d176-ebc4-49b9-abbb-5cd4f1677868","tags":[],"resourceType":"GMImageLayer",},
+    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"a36c91ff-16d8-4ef0-9469-46a2e1b10f60","tags":[],"resourceType":"GMImageLayer",},
   ],
   "nineSlice": null,
   "parent": {
@@ -73,7 +73,7 @@
     "path": "folders/Sprites.yy",
   },
   "resourceVersion": "1.0",
-  "name": "spr_boss_moving",
+  "name": "spr_villager",
   "tags": [],
   "resourceType": "GMSprite",
 }

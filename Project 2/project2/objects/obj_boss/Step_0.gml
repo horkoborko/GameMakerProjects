@@ -4,8 +4,17 @@
 /// Boss moves toward player x and y at .25 speed
 if ( point_distance(obj_player_front.x, obj_player_front.y, id.x, id.y) < 150)
    {
+	sprite_index = spr_knightwalking;
 	obj_boss.move_towards_point(obj_player_front.x, obj_player_front.y, .33);
    }
+   
+if ( point_distance(obj_player_front.x, obj_player_front.y, id.x, id.y) < 30)
+   {
+	sprite_index = spr_knightswingwalk;
+	obj_boss.move_towards_point(obj_player_front.x, obj_player_front.y, .33);
+   }
+   
+
  
  
 // This makes sure that collision is only registered once per "visible" collison
