@@ -3,8 +3,8 @@
 var lay_id = layer_get_id("Tiles_1");
 var map_id = layer_tilemap_get_id(lay_id);
 
-hcells = room_width / 32;
-vcells = room_height / 32;
+hcells = room_width / 28;
+vcells = room_height / 28;
 
 for (var yy = 0; yy < vcells; yy++){
 	for (var xx = 0; xx < hcells; xx++){
