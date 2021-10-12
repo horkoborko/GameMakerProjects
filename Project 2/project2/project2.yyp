@@ -209,6 +209,7 @@
     {"id":{"name":"EaseOutBack","path":"scripts/EaseOutBack/EaseOutBack.yy",},"order":21,},
     {"id":{"name":"ext_DSGrid__","path":"scripts/ext_DSGrid__/ext_DSGrid__.yy",},"order":7,},
     {"id":{"name":"score__","path":"scripts/score__/score__.yy",},"order":5,},
+    {"id":{"name":"sound_heal","path":"sounds/sound_heal/sound_heal.yy",},"order":7,},
     {"id":{"name":"sound_got_hit","path":"sounds/sound_got_hit/sound_got_hit.yy",},"order":6,},
     {"id":{"name":"spr_villager","path":"sprites/spr_villager/spr_villager.yy",},"order":30,},
     {"id":{"name":"TGMS_ClearRoom","path":"scripts/TGMS_ClearRoom/TGMS_ClearRoom.yy",},"order":1,},
