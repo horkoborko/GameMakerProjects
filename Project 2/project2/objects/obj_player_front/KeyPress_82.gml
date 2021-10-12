@@ -4,6 +4,8 @@ var lyr_instances = layer_get_id("Instances");
 
 var inst_arrow = instance_create_layer(x, y, lyr_instances, obj_arrow);
 
+audio_play_sound(sound_attack, 7, false);
+
 with (inst_arrow)
    {
     speed = 2;

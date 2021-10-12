@@ -1,5 +1,6 @@
 /// @description Insert description here
 // You can write your code in this editor
+var collide = false;
 
 text1 = "AHHHH" 
 text1_2 =" HELPPPPP";
