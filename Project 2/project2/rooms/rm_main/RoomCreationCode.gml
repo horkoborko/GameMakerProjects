@@ -4,7 +4,7 @@ audio_play_sound(sound_main_theme, 10, true);
 
 global.numHits = 0;
 
-/// Create forest  top part---> Doesnt Work?
+/// Create forest  
 
 var lyr_instances = layer_get_id("Instances");
 
