@@ -3,8 +3,8 @@
 ## Aldo
 
 * Ryan Demboski (5782550)
-* Hannah Trenary (id here)
-* Scott Austin (id here)
+* Hannah Trenary (5769157)
+* Scott Austin (5769599)
 
 ## Instructions
 
