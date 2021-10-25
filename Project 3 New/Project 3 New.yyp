@@ -1,10 +1,8 @@
 {
   "resources": [
-    {"id":{"name":"TweenGMS","path":"extensions/TweenGMS/TweenGMS.yy",},"order":0,},
-    {"id":{"name":"rm_win","path":"rooms/rm_win/rm_win.yy",},"order":2,},
-    {"id":{"name":"rm_lose","path":"rooms/rm_lose/rm_lose.yy",},"order":3,},
-    {"id":{"name":"rm_instructions","path":"rooms/rm_instructions/rm_instructions.yy",},"order":1,},
-    {"id":{"name":"rm_title","path":"rooms/rm_title/rm_title.yy",},"order":0,},
+    {"id":{"name":"obj_up_block","path":"objects/obj_up_block/obj_up_block.yy",},"order":0,},
+    {"id":{"name":"spr_up_block","path":"sprites/spr_up_block/spr_up_block.yy",},"order":0,},
+    {"id":{"name":"rm_main","path":"rooms/rm_main/rm_main.yy",},"order":0,},
   ],
   "Options": [
     {"name":"Main","path":"options/main/options_main.yy",},
@@ -19,10 +17,7 @@
     "children": [],
   },
   "RoomOrderNodes": [
-    {"roomId":{"name":"rm_title","path":"rooms/rm_title/rm_title.yy",},},
-    {"roomId":{"name":"rm_instructions","path":"rooms/rm_instructions/rm_instructions.yy",},},
-    {"roomId":{"name":"rm_win","path":"rooms/rm_win/rm_win.yy",},},
-    {"roomId":{"name":"rm_lose","path":"rooms/rm_lose/rm_lose.yy",},},
+    {"roomId":{"name":"rm_main","path":"rooms/rm_main/rm_main.yy",},},
   ],
   "Folders": [
     {"folderPath":"folders/Sprites.yy","order":1,"resourceVersion":"1.0","name":"Sprites","tags":[],"resourceType":"GMFolder",},
@@ -51,7 +46,7 @@
     "IDEVersion": "2.3.5.589",
   },
   "resourceVersion": "1.4",
-  "name": "project3",
+  "name": "Project 3 New",
   "tags": [],
   "resourceType": "GMProject",
 }
