@@ -1,6 +1,4 @@
 // The boxes will move on a straight line "through" screen
-var keepMaking = true;
-
 
 
 if (point_distance(x, y, x, 415) > 3)
@@ -12,4 +10,5 @@ if (point_distance(x, y, x, 415) > 3)
 else
    {
 	speed = 0;
+	keepMaking = false;
    }

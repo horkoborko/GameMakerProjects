@@ -1,6 +1,7 @@
 {
   "resources": [
     {"id":{"name":"obj_up_block","path":"objects/obj_up_block/obj_up_block.yy",},"order":0,},
+    {"id":{"name":"obj_spawner","path":"objects/obj_spawner/obj_spawner.yy",},"order":1,},
     {"id":{"name":"spr_up_block","path":"sprites/spr_up_block/spr_up_block.yy",},"order":0,},
     {"id":{"name":"rm_main","path":"rooms/rm_main/rm_main.yy",},"order":0,},
   ],
