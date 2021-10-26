@@ -1,12 +1,18 @@
 {
   "resources": [
+    {"id":{"name":"rm_win","path":"rooms/rm_win/rm_win.yy",},"order":2,},
+    {"id":{"name":"spr_particle_controller","path":"sprites/spr_particle_controller/spr_particle_controller.yy",},"order":3,},
     {"id":{"name":"obj_up_block","path":"objects/obj_up_block/obj_up_block.yy",},"order":0,},
+    {"id":{"name":"rm_lose","path":"rooms/rm_lose/rm_lose.yy",},"order":3,},
     {"id":{"name":"spr_down_block","path":"sprites/spr_down_block/spr_down_block.yy",},"order":1,},
     {"id":{"name":"obj_block_parent","path":"objects/obj_block_parent/obj_block_parent.yy",},"order":3,},
     {"id":{"name":"spr_temp_saber","path":"sprites/spr_temp_saber/spr_temp_saber.yy",},"order":2,},
     {"id":{"name":"obj_spawner","path":"objects/obj_spawner/obj_spawner.yy",},"order":1,},
     {"id":{"name":"spr_up_block","path":"sprites/spr_up_block/spr_up_block.yy",},"order":0,},
+    {"id":{"name":"rm_instructions","path":"rooms/rm_instructions/rm_instructions.yy",},"order":4,},
+    {"id":{"name":"obj_particle_controller","path":"objects/obj_particle_controller/obj_particle_controller.yy",},"order":5,},
     {"id":{"name":"obj_down_block","path":"objects/obj_down_block/obj_down_block.yy",},"order":2,},
+    {"id":{"name":"rm_start","path":"rooms/rm_start/rm_start.yy",},"order":1,},
     {"id":{"name":"obj_saber","path":"objects/obj_saber/obj_saber.yy",},"order":4,},
     {"id":{"name":"rm_main","path":"rooms/rm_main/rm_main.yy",},"order":0,},
   ],
@@ -24,6 +30,10 @@
   },
   "RoomOrderNodes": [
     {"roomId":{"name":"rm_main","path":"rooms/rm_main/rm_main.yy",},},
+    {"roomId":{"name":"rm_start","path":"rooms/rm_start/rm_start.yy",},},
+    {"roomId":{"name":"rm_win","path":"rooms/rm_win/rm_win.yy",},},
+    {"roomId":{"name":"rm_lose","path":"rooms/rm_lose/rm_lose.yy",},},
+    {"roomId":{"name":"rm_instructions","path":"rooms/rm_instructions/rm_instructions.yy",},},
   ],
   "Folders": [
     {"folderPath":"folders/Sprites.yy","order":1,"resourceVersion":"1.0","name":"Sprites","tags":[],"resourceType":"GMFolder",},
