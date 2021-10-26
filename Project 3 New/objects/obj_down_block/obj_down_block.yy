@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "spr_up_block",
-    "path": "sprites/spr_up_block/spr_up_block.yy",
+    "name": "spr_down_block",
+    "path": "sprites/spr_down_block/spr_down_block.yy",
   },
   "solid": false,
   "visible": true,
@@ -31,7 +31,7 @@
     "path": "folders/Objects.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_up_block",
+  "name": "obj_down_block",
   "tags": [],
   "resourceType": "GMObject",
 }
