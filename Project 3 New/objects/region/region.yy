@@ -1,16 +1,13 @@
 {
   "spriteId": {
-    "name": "spr_d_block",
-    "path": "sprites/spr_d_block/spr_d_block.yy",
+    "name": "successRegion",
+    "path": "sprites/successRegion/successRegion.yy",
   },
   "solid": false,
   "visible": true,
   "spriteMaskId": null,
   "persistent": false,
-  "parentObjectId": {
-    "name": "obj_block_parent",
-    "path": "objects/obj_block_parent/obj_block_parent.yy",
-  },
+  "parentObjectId": null,
   "physicsObject": false,
   "physicsSensor": false,
   "physicsShape": 1,
@@ -31,7 +28,7 @@
     "path": "folders/Objects.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_d_block",
+  "name": "region",
   "tags": [],
   "resourceType": "GMObject",
 }
