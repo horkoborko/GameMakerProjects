@@ -1,13 +1,13 @@
 {
-  "spriteId": null,
+  "spriteId": {
+    "name": "spr_w_block",
+    "path": "sprites/spr_w_block/spr_w_block.yy",
+  },
   "solid": false,
   "visible": true,
   "spriteMaskId": null,
   "persistent": false,
-  "parentObjectId": {
-    "name": "obj_block_parent",
-    "path": "objects/obj_block_parent/obj_block_parent.yy",
-  },
+  "parentObjectId": null,
   "physicsObject": false,
   "physicsSensor": false,
   "physicsShape": 1,
@@ -20,9 +20,7 @@
   "physicsStartAwake": true,
   "physicsKinematic": false,
   "physicsShapePoints": [],
-  "eventList": [
-    {"isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"obj_saber","path":"objects/obj_saber/obj_saber.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
-  ],
+  "eventList": [],
   "properties": [],
   "overriddenProperties": [],
   "parent": {
@@ -30,7 +28,7 @@
     "path": "folders/Objects.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_down_block",
+  "name": "obj_w_block",
   "tags": [],
   "resourceType": "GMObject",
 }
