@@ -2,7 +2,7 @@
 // You can write your code in this editor
 
 randomise();
-var randNum = random_range(1.5,3);
+var randNum = random_range(1,2);
 
 if ( alarm[0] == -1 )
   {

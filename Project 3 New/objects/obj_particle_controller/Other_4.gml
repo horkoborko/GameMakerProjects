@@ -1,5 +1,6 @@
 /// @description Insert description here
 // You can write your code in this editor
+/*
 global.Particle1 = part_type_create();
 
 part_type_shape(global.Particle1, pt_shape_flare);
