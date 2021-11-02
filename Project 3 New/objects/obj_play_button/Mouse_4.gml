@@ -1,2 +1,2 @@
 
- room_goto(rm_instructions);
+room_goto(rm_instructions);
