@@ -6,7 +6,7 @@ xp = x;
 yp = y;
 
 // Check if the object is close enough to the region object
-if (distance_to_object(region) <= 2)
+if ( y >= 320 && y <= 352 )  
    {
 	//We can increase userscore here
 	
