@@ -16,4 +16,4 @@ This game is our take on combining elements of beat saber and guitar hero. The g
 ## Credits
 * Ryan Demboski: 
 * Hannah Trenary: 
-* Scott Austin: 
+* Scott Austin: Wrote code for block creation, block movement and scaling, as well as handling user input and logic for determining wether the user input should destroy the block and award user points.
