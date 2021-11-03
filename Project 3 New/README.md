@@ -14,6 +14,6 @@ This game is our take on combining elements of beat saber and guitar hero. The g
 
 
 ## Credits
-* Ryan Demboski: 
+* Ryan Demboski: Created instructions and end rooms, implemented score and lives code, helped with block sprites and particles
 * Hannah Trenary: 
 * Scott Austin: 
