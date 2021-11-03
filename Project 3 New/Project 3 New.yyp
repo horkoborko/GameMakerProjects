@@ -153,7 +153,6 @@
     {"id":{"name":"rm_start","path":"rooms/rm_start/rm_start.yy",},"order":1,},
     {"id":{"name":"__health","path":"scripts/__health/__health.yy",},"order":1,},
     {"id":{"name":"__x","path":"scripts/__x/__x.yy",},"order":9,},
-    {"id":{"name":"Sprite13","path":"sprites/Sprite13/Sprite13.yy",},"order":15,},
     {"id":{"name":"EaseInCubic","path":"scripts/EaseInCubic/EaseInCubic.yy",},"order":3,},
     {"id":{"name":"__speed","path":"scripts/__speed/__speed.yy",},"order":7,},
     {"id":{"name":"TweenEasyMove","path":"scripts/TweenEasyMove/TweenEasyMove.yy",},"order":3,},
