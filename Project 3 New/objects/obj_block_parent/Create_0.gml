@@ -1,13 +1,9 @@
-/// @description Insert description here
-// You can write your code in this editor
-
-
+// Sets the image scale to 1/10 so that we can scale it up 
+// as it approaches the screen, make it seem "3D"
 image_xscale = 1/10;
 image_yscale = 1/10;
 
 //Generated for GMS2 in Geon FX v1.3.2
-//Put this code in Create event
-
 //game3particles Particle System
 global.ps = part_system_create();
 part_system_depth(global.ps, -1);

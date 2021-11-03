@@ -1,12 +1,14 @@
-/// @description Block Timer
-// You can write your code in this editor
+// Varaible for layer id of the instances layer
 var lyr_instances = layer_get_id("Instances");
-
+//Prep for the irandom
 randomise();
+// Get a random integer between 1 and 4
 var randNum = irandom_range(1,4)
 
 var objId;
 
+// Based on the random number, we decide which type of block 
+// to spawn in
 if ( randNum == 1)
    {
 	objId = instance_create_layer(x, y, lyr_instances, obj_a_block);  

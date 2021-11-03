@@ -1,5 +1,4 @@
-/// @description Insert description here
-// You can write your code in this editor
+//Draws the score and lives to the screen
 draw_text(32, 30, "Score: ");
 draw_text(90, 30, global.userScore);
 
