@@ -12,5 +12,6 @@ if ( y >= 320 && y <= 352 )
 	
 	part_emitter_region(global.ps, global.pe_Effect1, xp-3, xp+3, yp-3, yp+3, ps_shape_line, ps_distr_linear);
 	part_emitter_burst(global.ps, global.pe_Effect1, global.pt_Effect1, 10);
+	global.userScore += 50;
 	instance_destroy();   
    }

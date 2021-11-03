@@ -14,4 +14,11 @@ else
 	// Can track if player missed the block here
 	instance_destroy();
 	speed = 0;
+	
+	global.userLives--;
+	
+	if (global.userLives == 0)
+    {
+	   room_goto(rm_end);
+    }
    }
