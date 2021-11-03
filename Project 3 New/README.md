@@ -15,5 +15,5 @@ N/A
 
 ## Credits
 * Ryan Demboski: Created instructions and end rooms, implemented score and lives code, helped with block sprites and particles
-* Hannah Trenary: 
+* Hannah Trenary: Created the music and sound effects for all parts of the game, created the title and button sprites/objects.
 * Scott Austin: Wrote code for block creation, block movement and scaling, as well as handling user input and logic for determining wether the user input should destroy the block and award user points.
