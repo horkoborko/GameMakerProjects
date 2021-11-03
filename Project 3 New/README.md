@@ -16,4 +16,4 @@ This game is our take on combining elements of beat saber and guitar hero. The g
 ## Credits
 * Ryan Demboski: 
 * Hannah Trenary: 
-* Scott Austin: Created bandit, rat, cabin, tree, knight, and tilemap sprites. Wrote main room creation code, object event code. 
+* Scott Austin: 
