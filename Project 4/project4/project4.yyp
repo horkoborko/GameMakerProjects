@@ -2,6 +2,7 @@
   "resources": [
     {"id":{"name":"rm_lvl_2","path":"rooms/rm_lvl_2/rm_lvl_2.yy",},"order":2,},
     {"id":{"name":"rm_lvl_3","path":"rooms/rm_lvl_3/rm_lvl_3.yy",},"order":3,},
+    {"id":{"name":"rm_map","path":"rooms/rm_map/rm_map.yy",},"order":9,},
     {"id":{"name":"rm_lvl_4","path":"rooms/rm_lvl_4/rm_lvl_4.yy",},"order":4,},
     {"id":{"name":"rm_game_over","path":"rooms/rm_game_over/rm_game_over.yy",},"order":7,},
     {"id":{"name":"rm_lvl_1","path":"rooms/rm_lvl_1/rm_lvl_1.yy",},"order":1,},
@@ -31,6 +32,7 @@
     {"roomId":{"name":"rm_tutorial_lvl","path":"rooms/rm_tutorial_lvl/rm_tutorial_lvl.yy",},},
     {"roomId":{"name":"rm_game_over","path":"rooms/rm_game_over/rm_game_over.yy",},},
     {"roomId":{"name":"rm_win","path":"rooms/rm_win/rm_win.yy",},},
+    {"roomId":{"name":"rm_map","path":"rooms/rm_map/rm_map.yy",},},
   ],
   "Folders": [
     {"folderPath":"folders/Sprites.yy","order":1,"resourceVersion":"1.0","name":"Sprites","tags":[],"resourceType":"GMFolder",},
