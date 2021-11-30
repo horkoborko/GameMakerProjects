@@ -19,6 +19,7 @@
     {"id":{"name":"rm_lvl_boss","path":"rooms/rm_lvl_boss/rm_lvl_boss.yy",},"order":5,},
     {"id":{"name":"spr_medicine","path":"sprites/spr_medicine/spr_medicine.yy",},"order":4,},
     {"id":{"name":"transparentBox","path":"sprites/transparentBox/transparentBox.yy",},"order":2,},
+    {"id":{"name":"spr_walking","path":"sprites/spr_walking/spr_walking.yy",},"order":7,},
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},"order":0,},
     {"id":{"name":"spr_cloudTileSet","path":"sprites/spr_cloudTileSet/spr_cloudTileSet.yy",},"order":6,},
     {"id":{"name":"onj_background","path":"objects/onj_background/onj_background.yy",},"order":3,},

@@ -4,6 +4,8 @@
 key_right = keyboard_check(ord("D"));
 key_left = keyboard_check(ord("A"));
 key_up = keyboard_check_pressed(vk_space);
+
+//THis is for cloud collision
 var grounded = 0;
 var hitHead = 0;
 
@@ -19,22 +21,7 @@ grounded += tilemap_get_at_pixel(cloud_tilemap,
 grounded += tilemap_get_at_pixel(cloud_tilemap,
 					bbox_right,
 					bbox_bottom);	
-
-
-
-horizontal = ((key_right - key_left) * 3);
-vertical += .1;
-
-if ( horizontal != 0 )
-   {
-	image_xscale = horizontal / 4;	
-   }
-   
-if (key_up)
-   {
-	vertical = -5;
-   }
-
+					
 ///This is for floor collision 
 var hit = 0;
 
@@ -43,9 +30,43 @@ hit += tilemap_get_at_pixel(collision_tilemap,
 					bbox_bottom);
 hit += tilemap_get_at_pixel(collision_tilemap,
 					bbox_right,
-					bbox_bottom);	
+					bbox_bottom);
+// Floor 
+
+//cloud stuff
+
+horizontal = ((key_right - key_left) * 3);
+//gravity
+vertical += .5;
+
+if ( horizontal != 0 )
+   {
+	image_xscale = horizontal / 4;
+   }
+
+if (grounded)
+   {
+    if (horizontal != 0)
+	   {
+		sprite_index = spr_walking;
+	   }
+	else
+	   {
+		//Replace with idle animation
+		sprite_index = spr_player_static;
+	   }
+	   
+	if (key_up)
+       {
+	    vertical = -10;
+       }
+   }
+
+
+
+///This is for floor collision 	
 				
-if (hit > 0) 
+if (hit > 0 || grounded > 0) 
    {
 	//On Floor 
 	if ( vertical < 0)
