@@ -22,7 +22,7 @@ hit += tilemap_get_at_pixel(collision_tilemap,
 hit += tilemap_get_at_pixel(collision_tilemap,
 					bbox_right,
 					bbox_bottom);	
-					
+				
 if (hit > 0) 
    {
 	//On Floor 

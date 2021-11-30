@@ -38,7 +38,7 @@
     "path": "folders/Tile Sets.yy",
   },
   "resourceVersion": "1.0",
-  "name": "TileSet1",
+  "name": "Floor",
   "tags": [],
   "resourceType": "GMTileSet",
 }
