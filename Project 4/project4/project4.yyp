@@ -17,6 +17,7 @@
     {"id":{"name":"spr_medicine","path":"sprites/spr_medicine/spr_medicine.yy",},"order":4,},
     {"id":{"name":"transparentBox","path":"sprites/transparentBox/transparentBox.yy",},"order":2,},
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},"order":0,},
+    {"id":{"name":"onj_background","path":"objects/onj_background/onj_background.yy",},"order":3,},
     {"id":{"name":"rm_tutorial_lvl","path":"rooms/rm_tutorial_lvl/rm_tutorial_lvl.yy",},"order":6,},
     {"id":{"name":"rm_title","path":"rooms/rm_title/rm_title.yy",},"order":0,},
   ],
@@ -68,7 +69,7 @@
   ],
   "IncludedFiles": [],
   "MetaData": {
-    "IDEVersion": "2.3.4.583",
+    "IDEVersion": "2.3.7.603",
   },
   "resourceVersion": "1.4",
   "name": "project4",
