@@ -37,7 +37,7 @@ hit += tilemap_get_at_pixel(collision_tilemap,
 
 horizontal = ((key_right - key_left) * 3);
 //gravity
-vertical += .5;
+vertical += .4;
 
 if ( horizontal != 0 )
    {
