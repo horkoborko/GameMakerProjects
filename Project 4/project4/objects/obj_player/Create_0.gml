@@ -9,5 +9,3 @@ collision_tilemap = layer_tilemap_get_id(collision_layer);
 
 collision_layer2 = layer_get_id("Clouds");
 cloud_tilemap = layer_tilemap_get_id(collision_layer2);
-
-instance_layer = layer_get_id("Instances");
