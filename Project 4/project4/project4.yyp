@@ -3,6 +3,7 @@
     {"id":{"name":"spr_background","path":"sprites/spr_background/spr_background.yy",},"order":1,},
     {"id":{"name":"rm_lvl_2","path":"rooms/rm_lvl_2/rm_lvl_2.yy",},"order":2,},
     {"id":{"name":"spr_blocks","path":"sprites/spr_blocks/spr_blocks.yy",},"order":12,},
+    {"id":{"name":"sound_main_theme","path":"sounds/sound_main_theme/sound_main_theme.yy",},"order":0,},
     {"id":{"name":"rm_lvl_3","path":"rooms/rm_lvl_3/rm_lvl_3.yy",},"order":3,},
     {"id":{"name":"rm_map","path":"rooms/rm_map/rm_map.yy",},"order":9,},
     {"id":{"name":"Blocks","path":"tilesets/Blocks/Blocks.yy",},"order":2,},
@@ -82,7 +83,7 @@
   ],
   "IncludedFiles": [],
   "MetaData": {
-    "IDEVersion": "2.3.7.603",
+    "IDEVersion": "2.3.4.583",
   },
   "resourceVersion": "1.4",
   "name": "project4",
