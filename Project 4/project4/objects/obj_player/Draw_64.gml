@@ -14,3 +14,4 @@ draw_text(_w - draw_x*2 - 40, draw_y + 7, coins);
 draw_set_halign(fa_left);
 
 draw_set_color(c_white);
+draw_text(0,30, "Time Remaining: " + string(shownTime));

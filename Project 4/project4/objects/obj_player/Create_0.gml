@@ -3,3 +3,5 @@
 horizontal = 0;
 vertical = 0;
 coins = 0;
+myTime = 80.0;
+shownTime=myTime;

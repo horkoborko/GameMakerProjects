@@ -1,6 +1,20 @@
 /// @description Insert description here
 // You can write your code in this editor
 
+if (myTime > 0)
+{
+	myTime = myTime-delta_time/1000000;
+}
+
+else
+{
+	myTime = 0;
+	room_goto(rm_lose);
+}
+
+//removes the decimals from the whole numbers of seconds and rounds up (ex: 4.592 --> 5)
+shownTime = ceil(myTime);
+
 key_right = keyboard_check(ord("D"));
 key_left = keyboard_check(ord("A"));
 key_up = keyboard_check_pressed(vk_space);

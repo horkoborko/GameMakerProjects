@@ -46,7 +46,7 @@
     "path": "folders/Rooms.yy",
   },
   "resourceVersion": "1.0",
-  "name": "rm_map",
+  "name": "rm_lose",
   "tags": [],
   "resourceType": "GMRoom",
 }
