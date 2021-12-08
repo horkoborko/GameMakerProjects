@@ -9,12 +9,12 @@ coins = 0;
 //each level now has a different time limit
 if (room == rm_lvl_1)
 {
-	myTime = 75.0;
+	myTime = 80.0;
 }
 
 else if (room == rm_lvl_2)
 {
-	myTime = 50.0;
+	myTime = 70.0;
 }
 
 else if (room == rm_lvl_3)
