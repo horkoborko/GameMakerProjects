@@ -3,16 +3,17 @@
 
 if (myTime > 0)
 {
-	myTime = myTime-delta_time/1000000;
+	myTime = myTime - (delta_time / 1000000);
 }
 
 else
 {
+	//make sure time can't go negative
 	myTime = 0;
 	room_goto(rm_lose);
 }
 
-//removes the decimals from the whole numbers of seconds and rounds up (ex: 4.592 --> 5)
+//removes the decimals from the seconds and rounds up (ex: 4.592 --> 5)
 shownTime = ceil(myTime);
 
 key_right = keyboard_check(ord("D"));

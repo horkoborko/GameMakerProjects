@@ -22,6 +22,6 @@ if (obj_player.coins = global.coinAmount)
 	//go to boss level if in level 3
 	else if (room == rm_lvl_3)
 	{
-		room_goto(rm_lvl_boss);
+		room_goto(rm_win);
 	}
 }
