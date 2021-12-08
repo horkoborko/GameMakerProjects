@@ -1,6 +1,6 @@
 # Project 4 - Final
 
-## <Placeholder>
+## Coin Collect Pro
 
 * Ryan Demboski (5782550)
 * Hannah Trenary (5769157)
