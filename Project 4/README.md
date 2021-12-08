@@ -16,4 +16,4 @@ N/A
 ## Credits
 * Ryan Demboski: Coded onscreen text, coded level timer, put together level 2, created star functionality, implemented coin collecting, added win screen.
 * Hannah Trenary: 
-* Scott Austin: 
+* Scott Austin: Created tilesets and background.Put together levels 1 and 3. Coded the collison logic for the platforms, as well as the player movement. 
