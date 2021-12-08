@@ -233,12 +233,12 @@
     "children": [],
   },
   "RoomOrderNodes": [
-    {"roomId":{"name":"rm_lose","path":"rooms/rm_lose/rm_lose.yy",},},
     {"roomId":{"name":"rm_title","path":"rooms/rm_title/rm_title.yy",},},
     {"roomId":{"name":"rm_lvl_1","path":"rooms/rm_lvl_1/rm_lvl_1.yy",},},
     {"roomId":{"name":"rm_lvl_2","path":"rooms/rm_lvl_2/rm_lvl_2.yy",},},
     {"roomId":{"name":"rm_lvl_3","path":"rooms/rm_lvl_3/rm_lvl_3.yy",},},
     {"roomId":{"name":"rm_win","path":"rooms/rm_win/rm_win.yy",},},
+    {"roomId":{"name":"rm_lose","path":"rooms/rm_lose/rm_lose.yy",},},
   ],
   "Folders": [
     {"folderPath":"folders/Sprites.yy","order":1,"resourceVersion":"1.0","name":"Sprites","tags":[],"resourceType":"GMFolder",},
