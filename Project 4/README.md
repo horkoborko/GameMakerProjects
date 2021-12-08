@@ -14,6 +14,6 @@ This game is a platformer where you jump around onto different platforms searchi
 N/A
 
 ## Credits
-* Ryan Demboski: 
+* Ryan Demboski: Coded onscreen text, coded level timer, put together level 2, created star functionality, implemented coin collecting, added win screen.
 * Hannah Trenary: 
 * Scott Austin: 

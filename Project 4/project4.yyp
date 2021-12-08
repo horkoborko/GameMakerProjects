@@ -74,6 +74,7 @@
     {"id":{"name":"Clouds","path":"tilesets/Clouds/Clouds.yy",},"order":1,},
     {"id":{"name":"EaseInOutQuart","path":"scripts/EaseInOutQuart/EaseInOutQuart.yy",},"order":13,},
     {"id":{"name":"__image_yscale","path":"scripts/__image_yscale/__image_yscale.yy",},"order":6,},
+    {"id":{"name":"obj_win_screen","path":"objects/obj_win_screen/obj_win_screen.yy",},"order":14,},
     {"id":{"name":"EaseInOutQuint","path":"scripts/EaseInOutQuint/EaseInOutQuint.yy",},"order":14,},
     {"id":{"name":"TweensTarget","path":"scripts/TweensTarget/TweensTarget.yy",},"order":4,},
     {"id":{"name":"TweenPath","path":"scripts/TweenPath/TweenPath.yy",},"order":1,},
@@ -125,6 +126,7 @@
     {"id":{"name":"TGMS_Variable_Global_Set","path":"scripts/TGMS_Variable_Global_Set/TGMS_Variable_Global_Set.yy",},"order":1,},
     {"id":{"name":"TweenEasyScale","path":"scripts/TweenEasyScale/TweenEasyScale.yy",},"order":5,},
     {"id":{"name":"rm_lvl_1","path":"rooms/rm_lvl_1/rm_lvl_1.yy",},"order":1,},
+    {"id":{"name":"spr_win_screen","path":"sprites/spr_win_screen/spr_win_screen.yy",},"order":18,},
     {"id":{"name":"TweenEasySpeed","path":"scripts/TweenEasySpeed/TweenEasySpeed.yy",},"order":6,},
     {"id":{"name":"TweenFinish","path":"scripts/TweenFinish/TweenFinish.yy",},"order":0,},
     {"id":{"name":"EaseOutSine","path":"scripts/EaseOutSine/EaseOutSine.yy",},"order":30,},
@@ -234,10 +236,10 @@
   },
   "RoomOrderNodes": [
     {"roomId":{"name":"rm_title","path":"rooms/rm_title/rm_title.yy",},},
+    {"roomId":{"name":"rm_win","path":"rooms/rm_win/rm_win.yy",},},
     {"roomId":{"name":"rm_lvl_1","path":"rooms/rm_lvl_1/rm_lvl_1.yy",},},
     {"roomId":{"name":"rm_lvl_2","path":"rooms/rm_lvl_2/rm_lvl_2.yy",},},
     {"roomId":{"name":"rm_lvl_3","path":"rooms/rm_lvl_3/rm_lvl_3.yy",},},
-    {"roomId":{"name":"rm_win","path":"rooms/rm_win/rm_win.yy",},},
     {"roomId":{"name":"rm_lose","path":"rooms/rm_lose/rm_lose.yy",},},
   ],
   "Folders": [
