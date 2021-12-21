@@ -1,12 +1,1 @@
-**Team Members: Scott Austin, Ryan Demboski, Hannah Trenary**
-
-Project 1: Due September 16th
-
-
-Project 2: Due October 7th
-
-
-Project 3: Due October 28th
-
-
-Project 4: Due Novemebr 29th
+**This repository was used for CS413, in completing the assigned projects. This repository is now archived because the class has been completed and I do not plan on continued usage of GML**
